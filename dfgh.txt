@@ -1,1 +1,30 @@
-fghjkl
+download git software from git scm
+
+git --version
+
+git config --list
+
+add usrname nd eml in config list:
+git config --global user.name "ashna"
+git config --global user.email "ashnabs21@gmail.com"
+
+created folder and on path type cmd
+then code . in terminal  to open folder in vscode
+
+then created file and print stmnts
+
+git init  -for initialization
+
+then add into staging area
+git add -A
+
+then we can check status if untracked
+
+git status
+
+then save into local repository
+
+git commit -m "print message"
+
+
+git log -to know all changes
