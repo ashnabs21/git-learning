@@ -30,6 +30,7 @@ git commit -m "print message"
 git log -to know all changes
 
 git push -move from local to remote repository
+gi pull
 
 git pull -exact copy from remote repository(github)
 
